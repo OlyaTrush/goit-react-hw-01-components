@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/OlyaTrush/goit-react-hw-01-components/static/css/main.358513ef.css",
-    "main.js": "/OlyaTrush/goit-react-hw-01-components/static/js/main.3543237d.js",
-    "index.html": "/OlyaTrush/goit-react-hw-01-components/index.html",
-    "main.358513ef.css.map": "/OlyaTrush/goit-react-hw-01-components/static/css/main.358513ef.css.map",
-    "main.3543237d.js.map": "/OlyaTrush/goit-react-hw-01-components/static/js/main.3543237d.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.358513ef.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.3543237d.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.358513ef.css.map": "/goit-react-hw-01-components/static/css/main.358513ef.css.map",
+    "main.3543237d.js.map": "/goit-react-hw-01-components/static/js/main.3543237d.js.map"
   },
   "entrypoints": [
     "static/css/main.358513ef.css",
