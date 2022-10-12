@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OlyaTrush/goit-react-hw-01-components.git/static/css/main.f7e805dd.css",
+    "main.js": "/OlyaTrush/goit-react-hw-01-components.git/static/js/main.3543237d.js",
+    "index.html": "/OlyaTrush/goit-react-hw-01-components.git/index.html",
+    "main.f7e805dd.css.map": "/OlyaTrush/goit-react-hw-01-components.git/static/css/main.f7e805dd.css.map",
+    "main.3543237d.js.map": "/OlyaTrush/goit-react-hw-01-components.git/static/js/main.3543237d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7e805dd.css",
+    "static/js/main.3543237d.js"
+  ]
+}
