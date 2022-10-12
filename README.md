@@ -1,1 +1,2 @@
-# [goit-react-hw-01-components](https://olyatrush.github.io/goit-react-hw-01-components/)
+# [goit-react-hw-01-components](https://github.com/OlyaTrush/goit-react-hw-01-components.git/)
+ts
